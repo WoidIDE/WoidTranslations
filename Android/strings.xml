@@ -1,0 +1,46 @@
+<resources>
+  <!-- App Strings -->
+  <string name="app_name" translatable="false">Woid</string>
+  <string name="app_version" translatable="false">a1.0</string>
+  <string name="app_build_name" translatable="false">a1.0–512cb594e4f09a7c11aef05a8dbac2b3</string>
+
+  <!-- Projects Strings -->
+  <string name="create_project">Create Project</string>
+  <string name="new_project">New Project</string>
+
+  <!-- Project Create Dialog Strings -->
+  <string name="new_project_app_name">App Name</string>
+  <string name="new_project_package_name">Package Name</string>
+  <string name="new_project_min_sdk">Min SDK</string>
+  <string name="new_project_target_sdk">Target SDK</string>
+
+  <!-- Preference Title Strings -->
+  <string name="preference_title_display">Display</string>
+  <string name="preference_title_git_integration">Git Integration</string>
+  <string name="preference_title_settings_sync">Settings Sync</string>
+  <string name="preference_title_editor">Editor</string>
+  <string name="preference_title_debug">Debug</string>
+
+  <!-- Preference Strings -->
+  <string name="preference_dark_mode">Dark Mode</string>
+  <string name="preference_git_integration">Enable Git Integration</string>
+  <string name="preference_settings_sync">Enable Settings Sync</string>
+  <string name="preference_sync_options">Sync Options</string>
+  <string name="preference_auto_indentation">Auto Indentation</string>
+  <string name="preference_auto_complete">Auto Complete</string>
+  <string name="preference_line_wrapping">Line Wrapping</string>
+  <string name="preference_theme">Theme</string>
+  <string name="preference_crash_app">Crash App</string>
+  <string name="preference_delete_all_projects">Delete All Projects</string>
+
+  <!-- Debug Activity Strings -->
+  <string name="debug_error_title">An Error Occurred</string>
+  <string name="debug_report">Report</string>
+  <string name="debug_close_app">Close App</string>
+  
+  <!-- Drawer Menu Strings -->
+  <string name="drawer_menu_home">Home</string>
+  <string name="drawer_menu_plugins">Plugins</string>
+  <string name="drawer_menu_about">About</string>
+  <string name="drawer_menu_settings">Settings</string>
+</resources>
